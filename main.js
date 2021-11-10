@@ -2,7 +2,7 @@ const linksSocialMedia = {
   github: 'iwprogramacao',
   instagram: 'iw.programacao',
   youtube: 'watch?v=dQw4w9WgXcQ',
-  twitter: 'xetdoifood',
+  linkedin: 'in/igor-wiepieski-066098223',
   facebook: 'zuck'
 }
 
